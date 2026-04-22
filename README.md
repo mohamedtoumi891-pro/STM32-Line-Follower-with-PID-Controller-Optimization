@@ -14,7 +14,7 @@
 <p align="center">
   <img src="pcb_design.png" width="420" alt="BACHAWANGUI Custom PCB Design — KiCad 3D View">
   &nbsp;&nbsp;
-  <img src="schematic.svg" width="420" alt="BACHAWANGUI Wiring Schematic">
+  <img src="schematic.png" width="420" alt="BACHAWANGUI Wiring Schematic">
 </p>
 
 <p align="center">
